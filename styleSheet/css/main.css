@@ -345,38 +345,38 @@ p.h6 {
     font-size: 14px;
     margin-top: 8px;
   }
-  .project .project-right .project-main #p1-1,
-  .project .project-right .project-main #p2-3,
-  .project .project-right .project-main #p3-1,
+  .project .project-right .project-main #p2-1,
+  .project .project-right .project-main #p3-3,
+  .project .project-right .project-main #p4-1,
   .project .project-right .project-main #p6-1 {
     width: 96%;
     max-width: 470px;
   }
-  .project .project-right .project-main #p1-2 {
+  .project .project-right .project-main #p2-2 {
     width: 60%;
   }
-  .project .project-right .project-main #p1-3 {
+  .project .project-right .project-main #p2-3 {
     width: 30%;
   }
-  .project .project-right .project-main #p2-1,
-  .project .project-right .project-main #p2-2 {
+  .project .project-right .project-main #p3-1,
+  .project .project-right .project-main #p3-2 {
     width: 48%;
   }
-  .project .project-right .project-main #p3-2,
-  .project .project-right .project-main #p3-3,
-  .project .project-right .project-main #p3-4 {
+  .project .project-right .project-main #p4-2,
+  .project .project-right .project-main #p4-3,
+  .project .project-right .project-main #p4-4 {
     margin-top: 10px;
     width: 31.5%;
     max-width: 154px;
   }
-  .project .project-right .project-main #p4-1,
-  .project .project-right .project-main #p4-2,
-  .project .project-right .project-main #p4-3,
-  .project .project-right .project-main #p4-4 {
+  .project .project-right .project-main #p5-1,
+  .project .project-right .project-main #p5-2,
+  .project .project-right .project-main #p5-3,
+  .project .project-right .project-main #p5-4 {
     width: 24%;
   }
-  .project .project-right .project-main #p4-5,
-  .project .project-right .project-main #p5-1 {
+  .project .project-right .project-main #p5-5,
+  .project .project-right .project-main #p1-1 {
     width: 96%;
   }
   .project .project-right .project-main .videoWrapper {
@@ -555,17 +555,17 @@ p.h6 {
   .project-metadata .symbol-text .text {
     margin-bottom: 0;
   }
+  #p2-1,
+  #p4-1,
   #p1-1,
-  #p3-1,
-  #p5-1,
   #p6-1 {
     display: block;
     width: 100%;
   }
-  #p2-1,
-  #p2-2,
-  #p4-1,
-  #p4-2 {
+  #p3-1,
+  #p3-2,
+  #p5-1,
+  #p5-2 {
     display: inline-block;
     width: 49%;
   }
